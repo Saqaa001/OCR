@@ -6,7 +6,7 @@ This project is a web-based receipt annotation tool built with **Streamlit**. It
 
 ## 🔗 Live Demo (Streamlit Cloud)
 
-👉 [Launch the app on Streamlit Cloud]([https://sroiereceiptannotator.streamlit.app/])
+👉 [Launch the app on Streamlit Cloud](https://sroiereceiptannotator.streamlit.app/)
 
 ---
 
