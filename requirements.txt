@@ -1,7 +1,8 @@
 streamlit>=1.20.0
-streamlit-drawable-canvas>=0.9.2
+streamlit-drawable-canvas==0.9.2
 Pillow>=9.0.0
 pytesseract>=0.3.8
 easyocr>=1.7.1
 numpy>=1.22.0
 google-cloud-vision>=3.4.0
+torch>=1.10.0
